@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:50:43+09:00",
+  "updated_at": "2026-11-10T22:58:05+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
   "total": 140,
   "partial": false,
@@ -14,172 +14,140 @@
       "maximum": 1500000000,
       "start": "2026-07-30T07:00:00.000Z",
       "end": "2026-11-13T08:00:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP"
     },
     {
-      "id": "a0WfQ000003ENsfUAG",
-      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+      "id": "a0WJ200000CDd3OMAT",
+      "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
       "institution": "",
       "area": "全国",
       "employees": "従業員数の制約なし",
       "maximum": 0,
-      "start": "2026-09-25T00:00:00.000Z",
-      "end": "2026-11-20T14:59:00.000Z",
-      "status": "有力候補・要確認",
+      "start": "2026-07-13T01:00:00.000Z",
+      "end": "2026-11-20T08:00:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT"
     },
     {
-      "id": "a0WfQ000003myubUAA",
-      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
+      "id": "a0WJ200000CDd3YMAT",
+      "title": "令和８年度地域脱炭素実現に向けた具体的施策実装支援事業",
       "institution": "",
       "area": "全国",
       "employees": "従業員数の制約なし",
       "maximum": 0,
-      "start": "2026-10-22T03:00:00.000Z",
-      "end": "2026-11-27T03:00:00.000Z",
-      "status": "有力候補・要確認",
+      "start": "2026-07-13T01:00:00.000Z",
+      "end": "2026-11-20T08:00:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA"
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT"
     },
     {
-      "id": "a0WfQ000003mzyjUAA",
-      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
+      "id": "a0WJ200000CDXyuMAH",
+      "title": "令和8年度　資源循環分野の脱炭素化促進事業",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 44000000,
+      "start": "2026-04-14T07:00:00.000Z",
+      "end": "2026-11-30T08:30:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
+      "reasons": [
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXyuMAH"
+    },
+    {
+      "id": "a0WJ200000CDZ04MAH",
+      "title": "産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 100000000,
+      "start": "2026-05-21T07:00:00.000Z",
+      "end": "2026-11-30T09:00:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
+      "reasons": [
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH"
+    },
+    {
+      "id": "a0WJ200000CDYzVMAX",
+      "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業① 空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 150000000,
+      "start": "2026-05-21T07:00:00.000Z",
+      "end": "2026-11-30T09:00:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
+      "reasons": [
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX"
+    },
+    {
+      "id": "a0WJ200000CDZDHMA5",
+      "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）",
       "institution": "",
       "area": "全国",
       "employees": "従業員数の制約なし",
       "maximum": 0,
-      "start": "2026-10-22T03:00:00.000Z",
-      "end": "2026-11-27T03:00:00.000Z",
-      "status": "有力候補・要確認",
+      "start": "2026-07-02T07:00:00.000Z",
+      "end": "2026-11-30T09:00:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA"
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5"
     },
     {
-      "id": "a0WJ200000CDa1gMAD",
-      "title": "令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 72000000,
-      "start": "2026-07-07T09:00:00.000Z",
-      "end": "2026-11-30T03:00:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD"
-    },
-    {
-      "id": "a0WfQ000003zgNCUAY",
-      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
+      "id": "a0WJ200000CDZ1GMAX",
+      "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業③空港におけるEV・FCV型車両改造事業（二酸化炭素排出抑制対策事業費等補助金）",
       "institution": "",
       "area": "全国",
       "employees": "従業員数の制約なし",
       "maximum": 0,
-      "start": "2026-11-09T03:00:00.000Z",
-      "end": "2026-12-11T03:00:00.000Z",
-      "status": "有力候補・要確認",
+      "start": "2026-05-21T07:00:00.000Z",
+      "end": "2026-11-30T09:00:00.000Z",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY"
-    },
-    {
-      "id": "a0WfQ000003znYLUAY",
-      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-11-09T03:00:00.000Z",
-      "end": "2026-12-11T03:00:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY"
-    },
-    {
-      "id": "a0WJ200000CDXmVMAX",
-      "title": "【令和８年度】INPIT外国出願補助金（中間手続補助）",
-      "institution": "INPIT外国出願補助金（中間手続補助）",
-      "area": "全国",
-      "employees": "300名以下",
-      "maximum": 500000,
-      "start": "2026-04-01T01:00:00.000Z",
-      "end": "2026-12-14T08:00:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 300名以下",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX"
-    },
-    {
-      "id": "a0WfQ000003kEuHUAU",
-      "title": "小規模事業者持続化補助金＜創業型＞ 第４回受付締切",
-      "institution": "",
-      "area": "全国",
-      "employees": "20名以下",
-      "maximum": 2000000,
-      "start": "2026-11-05T06:00:00.000Z",
-      "end": "2026-12-15T08:00:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 20名以下",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kEuHUAU"
-    },
-    {
-      "id": "a0WfQ000003pvCDUAY",
-      "title": "令和８年度２次公募 情報処理・サービス・製造産業事業費補助金 （重要鉱物に係るサプライチェーン強靱化事業）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-11-06T00:00:00.000Z",
-      "end": "2026-12-16T14:59:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003pvCDUAY"
-    },
-    {
-      "id": "a0WfQ000003cAFxUAM",
-      "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-10-05T01:00:00.000Z",
-      "end": "2026-12-23T03:00:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM"
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX"
     },
     {
       "id": "a0WJ200000CDa1bMAD",
@@ -190,10 +158,12 @@
       "maximum": 1000000000,
       "start": "2026-06-04T01:00:00.000Z",
       "end": "2026-12-24T14:59:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD"
     },
@@ -206,44 +176,32 @@
       "maximum": 35000000,
       "start": "2025-10-27T08:00:00.000Z",
       "end": "2026-12-28T08:00:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH"
     },
     {
-      "id": "a0WJ200000CDHQZMA5",
-      "title": "在宅人工呼吸器使用難病患者非常用電源設備整備事業補助金",
+      "id": "a0WJ200000CDZ2OMAX",
+      "title": "令和8年度　建築GX・DX推進事業",
       "institution": "",
       "area": "全国",
       "employees": "従業員数の制約なし",
       "maximum": 0,
-      "start": "2026-03-31T15:00:00.000Z",
-      "end": "2026-12-28T14:59:00.000Z",
-      "status": "有力候補・要確認",
+      "start": "2026-07-01T01:00:00.000Z",
+      "end": "2026-12-31T14:59:00.000Z",
+      "status": "関連候補",
+      "description": "IT・デジタル化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "IT・デジタル化",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDHQZMA5"
-    },
-    {
-      "id": "a0WJ200000CDXRpMAP",
-      "title": "令和７年度（補正）　商用車等の電動化促進事業（建設機械）",
-      "institution": "",
-      "area": "全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県",
-      "employees": "従業員数の制約なし",
-      "maximum": 1431000000,
-      "start": "2026-03-19T05:00:00.000Z",
-      "end": "2027-01-29T08:00:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXRpMAP"
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX"
     },
     {
       "id": "a0WJ200000CDYSFMA5",
@@ -254,44 +212,14 @@
       "maximum": 0,
       "start": "2026-04-08T00:00:00.000Z",
       "end": "2027-02-26T08:00:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSFMA5"
-    },
-    {
-      "id": "a0WJ200000CDY1VMAX",
-      "title": "【長野県茅野市】製造業等労務環境改善・競争力強化促進補助金",
-      "institution": "",
-      "area": "長野県",
-      "employees": "300名以下",
-      "maximum": 0,
-      "start": "2026-03-31T15:00:00.000Z",
-      "end": "2027-02-28T14:59:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 300名以下",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1VMAX"
-    },
-    {
-      "id": "a0WJ200000CDY1kMAH",
-      "title": "【長野県茅野市】受注及び販路開拓支援事業補助金",
-      "institution": "",
-      "area": "長野県",
-      "employees": "300名以下",
-      "maximum": 0,
-      "start": "2026-03-31T15:00:00.000Z",
-      "end": "2027-03-17T14:59:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 300名以下",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1kMAH"
     },
     {
       "id": "a0WJ200000CDX4vMAH",
@@ -302,28 +230,14 @@
       "maximum": 40000000,
       "start": "2026-01-23T08:00:00.000Z",
       "end": "2027-03-23T08:00:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH"
-    },
-    {
-      "id": "a0WJ200000CDY1fMAH",
-      "title": "【長野県茅野市】新商品開発事業補助金",
-      "institution": "",
-      "area": "長野県",
-      "employees": "従業員数の制約なし",
-      "maximum": 300000,
-      "start": "2026-03-31T15:00:00.000Z",
-      "end": "2027-03-31T14:59:00.000Z",
-      "status": "有力候補・要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1fMAH"
     },
     {
       "id": "a0WJ200000CDYimMAH",
@@ -334,10 +248,12 @@
       "maximum": 0,
       "start": "2026-04-30T08:00:00.000Z",
       "end": "2027-06-30T08:00:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH"
     },
@@ -350,10 +266,12 @@
       "maximum": 0,
       "start": "2026-04-03T08:00:00.000Z",
       "end": "2028-03-31T08:00:00.000Z",
-      "status": "有力候補・要確認",
+      "status": "関連候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "従業員条件: 従業員数の制約なし",
-        "関心分野と関連する可能性があります"
+        "用途が関心分野に近いとタイトルから推定",
+        "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
     },
@@ -366,9 +284,11 @@
       "maximum": 3000000,
       "start": "2026-10-13T00:00:00.000Z",
       "end": "2026-11-12T07:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT"
     },
@@ -382,8 +302,10 @@
       "start": "2026-10-22T02:00:00.000Z",
       "end": "2026-11-13T04:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qYNFUA2"
     },
@@ -396,9 +318,11 @@
       "maximum": 6000000,
       "start": "2026-08-31T15:00:00.000Z",
       "end": "2026-11-14T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT"
     },
@@ -411,9 +335,11 @@
       "maximum": 6000000,
       "start": "2026-08-31T15:00:00.000Z",
       "end": "2026-11-15T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT"
     },
@@ -426,9 +352,11 @@
       "maximum": 50000,
       "start": "2026-09-14T15:00:00.000Z",
       "end": "2026-11-15T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL"
     },
@@ -441,41 +369,30 @@
       "maximum": 1500000,
       "start": "2026-10-31T15:00:00.000Z",
       "end": "2026-11-16T07:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX"
     },
     {
-      "id": "a0WJ200000CDd3OMAT",
-      "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
+      "id": "a0WfQ000003ENsfUAG",
+      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
       "institution": "",
       "area": "全国",
       "employees": "従業員数の制約なし",
       "maximum": 0,
-      "start": "2026-07-13T01:00:00.000Z",
-      "end": "2026-11-20T08:00:00.000Z",
-      "status": "要確認",
+      "start": "2026-09-25T00:00:00.000Z",
+      "end": "2026-11-20T14:59:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
       ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT"
-    },
-    {
-      "id": "a0WJ200000CDd3YMAT",
-      "title": "令和８年度地域脱炭素実現に向けた具体的施策実装支援事業",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-07-13T01:00:00.000Z",
-      "end": "2026-11-20T08:00:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT"
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
     },
     {
       "id": "a0WJ200000CDYbNMAX",
@@ -487,8 +404,10 @@
       "start": "2026-05-20T00:00:00.000Z",
       "end": "2026-11-20T15:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
     },
@@ -501,11 +420,47 @@
       "maximum": 200000000,
       "start": "2026-10-23T00:00:00.000Z",
       "end": "2026-11-24T04:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE"
+    },
+    {
+      "id": "a0WfQ000003myubUAA",
+      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-10-22T03:00:00.000Z",
+      "end": "2026-11-27T03:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA"
+    },
+    {
+      "id": "a0WfQ000003mzyjUAA",
+      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-10-22T03:00:00.000Z",
+      "end": "2026-11-27T03:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA"
     },
     {
       "id": "a0WJ200000CDY5GMAX",
@@ -517,8 +472,10 @@
       "start": "2026-03-24T04:00:00.000Z",
       "end": "2026-11-27T15:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX"
     },
@@ -532,10 +489,29 @@
       "start": "2026-06-22T07:00:00.000Z",
       "end": "2026-11-28T09:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX"
+    },
+    {
+      "id": "a0WJ200000CDa1gMAD",
+      "title": "令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 72000000,
+      "start": "2026-07-07T09:00:00.000Z",
+      "end": "2026-11-30T03:00:00.000Z",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD"
     },
     {
       "id": "a0WfQ000003ohEXUAY",
@@ -546,9 +522,11 @@
       "maximum": 20000000,
       "start": "2026-11-02T00:00:00.000Z",
       "end": "2026-11-30T07:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ohEXUAY"
     },
@@ -562,8 +540,10 @@
       "start": "2026-04-12T15:00:00.000Z",
       "end": "2026-11-30T08:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 300名以下"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEGMA5"
     },
@@ -576,9 +556,11 @@
       "maximum": 0,
       "start": "2026-04-16T00:00:00.000Z",
       "end": "2026-11-30T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddVMAT"
     },
@@ -591,86 +573,13 @@
       "maximum": 4500000,
       "start": "2026-03-13T00:00:00.000Z",
       "end": "2026-11-30T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfxMAH"
-    },
-    {
-      "id": "a0WJ200000CDXyuMAH",
-      "title": "令和8年度　資源循環分野の脱炭素化促進事業",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 44000000,
-      "start": "2026-04-14T07:00:00.000Z",
-      "end": "2026-11-30T08:30:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXyuMAH"
-    },
-    {
-      "id": "a0WJ200000CDZ04MAH",
-      "title": "産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 100000000,
-      "start": "2026-05-21T07:00:00.000Z",
-      "end": "2026-11-30T09:00:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH"
-    },
-    {
-      "id": "a0WJ200000CDYzVMAX",
-      "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業① 空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 150000000,
-      "start": "2026-05-21T07:00:00.000Z",
-      "end": "2026-11-30T09:00:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX"
-    },
-    {
-      "id": "a0WJ200000CDZDHMA5",
-      "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-07-02T07:00:00.000Z",
-      "end": "2026-11-30T09:00:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5"
-    },
-    {
-      "id": "a0WJ200000CDZ1GMAX",
-      "title": "産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業③空港におけるEV・FCV型車両改造事業（二酸化炭素排出抑制対策事業費等補助金）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-05-21T07:00:00.000Z",
-      "end": "2026-11-30T09:00:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX"
     },
     {
       "id": "a0WJ200000CDKBZMA5",
@@ -681,9 +590,11 @@
       "maximum": 0,
       "start": "2024-10-29T15:00:00.000Z",
       "end": "2026-11-30T14:45:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKBZMA5"
     },
@@ -696,9 +607,11 @@
       "maximum": 100000,
       "start": "2026-04-13T15:00:00.000Z",
       "end": "2026-11-30T14:45:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYsRMAX"
     },
@@ -711,9 +624,11 @@
       "maximum": 6000000,
       "start": "2026-08-31T15:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdueMAD"
     },
@@ -726,9 +641,11 @@
       "maximum": 6000000,
       "start": "2026-08-31T15:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6cMAD"
     },
@@ -741,9 +658,11 @@
       "maximum": 6000000,
       "start": "2026-08-31T15:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6YMAT"
     },
@@ -756,9 +675,11 @@
       "maximum": 2000000,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUmMAP"
     },
@@ -771,9 +692,11 @@
       "maximum": 500000,
       "start": "2026-04-14T15:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX"
     },
@@ -786,9 +709,11 @@
       "maximum": 1500000,
       "start": "2026-11-10T01:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH"
     },
@@ -801,9 +726,11 @@
       "maximum": 0,
       "start": "2026-11-01T15:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ykxVUAQ"
     },
@@ -816,9 +743,11 @@
       "maximum": 30000000,
       "start": "2026-10-18T15:00:00.000Z",
       "end": "2026-11-30T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "IT・デジタル化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "IT・デジタル化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYeMAL"
     },
@@ -831,9 +760,11 @@
       "maximum": 5000000,
       "start": "2026-04-10T00:00:00.000Z",
       "end": "2026-12-01T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP"
     },
@@ -847,10 +778,46 @@
       "start": "2025-12-16T00:00:00.000Z",
       "end": "2026-12-01T08:15:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5"
+    },
+    {
+      "id": "a0WfQ000003zgNCUAY",
+      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-11-09T03:00:00.000Z",
+      "end": "2026-12-11T03:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY"
+    },
+    {
+      "id": "a0WfQ000003znYLUAY",
+      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-11-09T03:00:00.000Z",
+      "end": "2026-12-11T03:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY"
     },
     {
       "id": "a0WfQ000003dVevUAE",
@@ -862,10 +829,29 @@
       "start": "2026-11-09T04:00:00.000Z",
       "end": "2026-12-14T03:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE"
+    },
+    {
+      "id": "a0WJ200000CDXmVMAX",
+      "title": "【令和８年度】INPIT外国出願補助金（中間手続補助）",
+      "institution": "INPIT外国出願補助金（中間手続補助）",
+      "area": "全国",
+      "employees": "300名以下",
+      "maximum": 500000,
+      "start": "2026-04-01T01:00:00.000Z",
+      "end": "2026-12-14T08:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX"
     },
     {
       "id": "a0WfQ000003tCA5UAM",
@@ -876,9 +862,11 @@
       "maximum": 2000000,
       "start": "2026-11-02T08:00:00.000Z",
       "end": "2026-12-15T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM"
     },
@@ -892,8 +880,10 @@
       "start": "2026-10-16T06:00:00.000Z",
       "end": "2026-12-15T08:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ"
     },
@@ -906,9 +896,11 @@
       "maximum": 2000000,
       "start": "2026-10-13T00:00:00.000Z",
       "end": "2026-12-15T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ao2zUAA"
     },
@@ -921,11 +913,47 @@
       "maximum": 2000000,
       "start": "2026-11-02T08:00:00.000Z",
       "end": "2026-12-15T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ"
+    },
+    {
+      "id": "a0WfQ000003kEuHUAU",
+      "title": "小規模事業者持続化補助金＜創業型＞ 第４回受付締切",
+      "institution": "",
+      "area": "全国",
+      "employees": "20名以下",
+      "maximum": 2000000,
+      "start": "2026-11-05T06:00:00.000Z",
+      "end": "2026-12-15T08:00:00.000Z",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
+      "reasons": [
+        "創業期間の要件に合わない可能性があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kEuHUAU"
+    },
+    {
+      "id": "a0WfQ000003pvCDUAY",
+      "title": "令和８年度２次公募 情報処理・サービス・製造産業事業費補助金 （重要鉱物に係るサプライチェーン強靱化事業）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-11-06T00:00:00.000Z",
+      "end": "2026-12-16T14:59:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003pvCDUAY"
     },
     {
       "id": "a0WJ200000CDX1KMAX",
@@ -936,9 +964,11 @@
       "maximum": 0,
       "start": "2026-02-05T05:00:00.000Z",
       "end": "2026-12-17T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX"
     },
@@ -951,11 +981,30 @@
       "maximum": 6500000,
       "start": "2026-04-01T01:00:00.000Z",
       "end": "2026-12-18T08:00:00.000Z",
-      "status": "雇用条件に注意",
+      "status": "条件に注意",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
         "従業員数の下限がある可能性があります"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP"
+    },
+    {
+      "id": "a0WfQ000003cAFxUAM",
+      "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-10-05T01:00:00.000Z",
+      "end": "2026-12-23T03:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM"
     },
     {
       "id": "a0WfQ000003rYGLUA2",
@@ -967,8 +1016,10 @@
       "start": "2026-10-27T01:00:00.000Z",
       "end": "2026-12-23T03:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rYGLUA2"
     },
@@ -981,9 +1032,11 @@
       "maximum": 0,
       "start": "2026-06-01T00:00:00.000Z",
       "end": "2026-12-25T02:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddbMAD"
     },
@@ -996,9 +1049,11 @@
       "maximum": 0,
       "start": "2026-06-01T00:00:00.000Z",
       "end": "2026-12-25T02:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddZMAT"
     },
@@ -1011,9 +1066,11 @@
       "maximum": 240000,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2026-12-25T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddXMAT"
     },
@@ -1026,9 +1083,11 @@
       "maximum": 750000,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2026-12-25T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddWMAT"
     },
@@ -1041,9 +1100,11 @@
       "maximum": 100000,
       "start": "2026-04-16T15:00:00.000Z",
       "end": "2026-12-25T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjxMAH"
     },
@@ -1056,9 +1117,11 @@
       "maximum": 1500000,
       "start": "2026-04-16T15:00:00.000Z",
       "end": "2026-12-25T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjyMAH"
     },
@@ -1071,9 +1134,11 @@
       "maximum": 5000000,
       "start": "2026-06-30T23:30:00.000Z",
       "end": "2026-12-28T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPLMA1"
     },
@@ -1086,9 +1151,11 @@
       "maximum": 300000,
       "start": "2026-03-31T23:30:00.000Z",
       "end": "2026-12-28T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYTvMAP"
     },
@@ -1101,11 +1168,30 @@
       "maximum": 200000,
       "start": "2026-06-23T23:30:00.000Z",
       "end": "2026-12-28T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "IT・デジタル化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "IT・デジタル化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbpCMAT"
+    },
+    {
+      "id": "a0WJ200000CDHQZMA5",
+      "title": "在宅人工呼吸器使用難病患者非常用電源設備整備事業補助金",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-03-31T15:00:00.000Z",
+      "end": "2026-12-28T14:59:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDHQZMA5"
     },
     {
       "id": "a0WJ200000CDYZ7MAP",
@@ -1116,9 +1202,11 @@
       "maximum": 500000,
       "start": "2026-03-31T23:30:00.000Z",
       "end": "2026-12-28T15:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYZ7MAP"
     },
@@ -1131,26 +1219,13 @@
       "maximum": 33762000,
       "start": "2025-11-03T15:00:00.000Z",
       "end": "2026-12-30T15:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX"
-    },
-    {
-      "id": "a0WJ200000CDZ2OMAX",
-      "title": "令和8年度　建築GX・DX推進事業",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-07-01T01:00:00.000Z",
-      "end": "2026-12-31T14:59:00.000Z",
-      "status": "要確認",
-      "reasons": [
-        "従業員条件: 従業員数の制約なし"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ2OMAX"
     },
     {
       "id": "a0WJ200000CDaTCMA1",
@@ -1161,9 +1236,11 @@
       "maximum": 200000000,
       "start": "2026-09-07T00:00:00.000Z",
       "end": "2026-12-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1"
     },
@@ -1177,8 +1254,10 @@
       "start": "2026-04-07T09:00:00.000Z",
       "end": "2026-12-31T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY7KMAX"
     },
@@ -1192,8 +1271,10 @@
       "start": "2026-04-24T05:00:00.000Z",
       "end": "2027-01-15T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWZ9MAP"
     },
@@ -1206,11 +1287,30 @@
       "maximum": 15000000,
       "start": "2026-05-13T15:00:00.000Z",
       "end": "2027-01-29T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZuemGEAR"
+    },
+    {
+      "id": "a0WJ200000CDXRpMAP",
+      "title": "令和７年度（補正）　商用車等の電動化促進事業（建設機械）",
+      "institution": "",
+      "area": "全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県",
+      "employees": "従業員数の制約なし",
+      "maximum": 1431000000,
+      "start": "2026-03-19T05:00:00.000Z",
+      "end": "2027-01-29T08:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXRpMAP"
     },
     {
       "id": "a0WJ200000CDYSPMA5",
@@ -1222,8 +1322,10 @@
       "start": "2026-04-08T00:00:00.000Z",
       "end": "2027-01-29T08:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSPMA5"
     },
@@ -1237,8 +1339,10 @@
       "start": "2026-07-17T05:00:00.000Z",
       "end": "2027-01-29T09:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPBMA1"
     },
@@ -1251,9 +1355,11 @@
       "maximum": 7500000,
       "start": "2026-04-09T15:00:00.000Z",
       "end": "2027-01-29T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMSsMAP"
     },
@@ -1266,9 +1372,11 @@
       "maximum": 1500000,
       "start": "2026-09-28T05:00:00.000Z",
       "end": "2027-01-29T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ZH5uUAG"
     },
@@ -1282,8 +1390,10 @@
       "start": "2026-09-30T15:00:00.000Z",
       "end": "2027-01-31T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 300名以下"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeRiMAL"
     },
@@ -1296,9 +1406,11 @@
       "maximum": 500000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-01-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW6MAP"
     },
@@ -1311,9 +1423,11 @@
       "maximum": 500000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-01-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW3MAP"
     },
@@ -1326,9 +1440,11 @@
       "maximum": 500000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-01-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW2MAP"
     },
@@ -1341,9 +1457,11 @@
       "maximum": 300000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-01-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "商品開発に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "商品開発",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW7MAP"
     },
@@ -1356,9 +1474,11 @@
       "maximum": 300000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-01-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW5MAP"
     },
@@ -1371,9 +1491,11 @@
       "maximum": 0,
       "start": "2026-04-27T00:00:00.000Z",
       "end": "2027-02-01T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvPMAX"
     },
@@ -1386,9 +1508,11 @@
       "maximum": 0,
       "start": "2026-06-04T00:00:00.000Z",
       "end": "2027-02-26T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCmMAP"
     },
@@ -1402,8 +1526,10 @@
       "start": "2026-04-08T00:00:00.000Z",
       "end": "2027-02-26T08:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYSAMA5"
     },
@@ -1416,9 +1542,11 @@
       "maximum": 50000,
       "start": "2026-04-15T00:00:00.000Z",
       "end": "2027-02-26T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyyMAD"
     },
@@ -1431,9 +1559,11 @@
       "maximum": 0,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-02-26T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddUMAT"
     },
@@ -1447,10 +1577,29 @@
       "start": "2026-10-07T00:00:00.000Z",
       "end": "2027-02-26T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 300名以下"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT"
+    },
+    {
+      "id": "a0WJ200000CDY1VMAX",
+      "title": "【長野県茅野市】製造業等労務環境改善・競争力強化促進補助金",
+      "institution": "",
+      "area": "長野県",
+      "employees": "300名以下",
+      "maximum": 0,
+      "start": "2026-03-31T15:00:00.000Z",
+      "end": "2027-02-28T14:59:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "伊那市以外の市町村向け制度の可能性があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1VMAX"
     },
     {
       "id": "a0WJ200000CDL8JMAX",
@@ -1462,8 +1611,10 @@
       "start": "2025-03-30T15:00:00.000Z",
       "end": "2027-02-28T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDL8JMAX"
     },
@@ -1476,11 +1627,30 @@
       "maximum": 100000,
       "start": "2026-05-10T23:30:00.000Z",
       "end": "2027-03-01T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6GMAX"
+    },
+    {
+      "id": "a0WJ200000CDY1kMAH",
+      "title": "【長野県茅野市】受注及び販路開拓支援事業補助金",
+      "institution": "",
+      "area": "長野県",
+      "employees": "300名以下",
+      "maximum": 0,
+      "start": "2026-03-31T15:00:00.000Z",
+      "end": "2027-03-17T14:59:00.000Z",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
+      "reasons": [
+        "伊那市以外の市町村向け制度の可能性があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1kMAH"
     },
     {
       "id": "a0WJ200000CDXk8MAH",
@@ -1491,9 +1661,11 @@
       "maximum": 100000,
       "start": "2026-04-01T00:55:00.000Z",
       "end": "2027-03-31T00:55:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXk8MAH"
     },
@@ -1507,8 +1679,10 @@
       "start": "2026-01-30T05:00:00.000Z",
       "end": "2027-03-31T03:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXENMA5"
     },
@@ -1522,8 +1696,10 @@
       "start": "2026-01-30T05:00:00.000Z",
       "end": "2027-03-31T05:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFjMAP"
     },
@@ -1536,9 +1712,11 @@
       "maximum": 0,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T07:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfeMAH"
     },
@@ -1551,9 +1729,11 @@
       "maximum": 120000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T07:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYffMAH"
     },
@@ -1566,9 +1746,11 @@
       "maximum": 5000000,
       "start": "2026-04-27T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUXMA5"
     },
@@ -1581,9 +1763,11 @@
       "maximum": 1000000,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz6MAH"
     },
@@ -1596,9 +1780,11 @@
       "maximum": 0,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz2MAH"
     },
@@ -1611,9 +1797,11 @@
       "maximum": 0,
       "start": "2026-08-16T15:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtHMAT"
     },
@@ -1626,9 +1814,11 @@
       "maximum": 20000000,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY9gMAH"
     },
@@ -1642,8 +1832,10 @@
       "start": "2026-01-30T05:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXORMA5"
     },
@@ -1656,9 +1848,11 @@
       "maximum": 0,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvXMAX"
     },
@@ -1671,9 +1865,11 @@
       "maximum": 0,
       "start": "2026-08-27T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1"
     },
@@ -1686,9 +1882,11 @@
       "maximum": 0,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-03-31T08:00:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvRMAX"
     },
@@ -1701,9 +1899,11 @@
       "maximum": 500000,
       "start": "2026-03-31T23:30:00.000Z",
       "end": "2027-03-31T08:15:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbz0MAD"
     },
@@ -1716,9 +1916,11 @@
       "maximum": 200000,
       "start": "2026-03-30T00:00:00.000Z",
       "end": "2027-03-31T14:45:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXqMMAX"
     },
@@ -1731,11 +1933,30 @@
       "maximum": 141000,
       "start": "2026-07-15T00:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHxMAL"
+    },
+    {
+      "id": "a0WJ200000CDY1fMAH",
+      "title": "【長野県茅野市】新商品開発事業補助金",
+      "institution": "",
+      "area": "長野県",
+      "employees": "従業員数の制約なし",
+      "maximum": 300000,
+      "start": "2026-03-31T15:00:00.000Z",
+      "end": "2027-03-31T14:59:00.000Z",
+      "status": "対象外候補",
+      "description": "商品開発に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "商品開発",
+      "reasons": [
+        "伊那市以外の市町村向け制度の可能性があります"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1fMAH"
     },
     {
       "id": "a0WJ200000CDY1QMAX",
@@ -1746,9 +1967,11 @@
       "maximum": 500000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "要確認",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "伊那市以外の市町村向け制度の可能性があります"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1QMAX"
     },
@@ -1762,8 +1985,10 @@
       "start": "2025-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXFhMAP"
     },
@@ -1776,9 +2001,11 @@
       "maximum": 0,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb86MAD"
     },
@@ -1791,9 +2018,11 @@
       "maximum": 10000000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8AMAT"
     },
@@ -1806,9 +2035,11 @@
       "maximum": 141000,
       "start": "2024-09-27T00:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "IT・デジタル化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "IT・デジタル化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ20000087jeOMAQ"
     },
@@ -1821,9 +2052,11 @@
       "maximum": 141000,
       "start": "2025-07-25T00:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "IT・デジタル化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "IT・デジタル化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRArMAP"
     },
@@ -1836,9 +2069,11 @@
       "maximum": 0,
       "start": "2025-10-29T00:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH"
     },
@@ -1851,9 +2086,11 @@
       "maximum": 300000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW4MAP"
     },
@@ -1866,9 +2103,11 @@
       "maximum": 0,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYVzMAP"
     },
@@ -1881,9 +2120,11 @@
       "maximum": 1000000000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW9MAP"
     },
@@ -1896,9 +2137,11 @@
       "maximum": 200000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW1MAP"
     },
@@ -1911,9 +2154,11 @@
       "maximum": 1000000000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW8MAP"
     },
@@ -1926,9 +2171,11 @@
       "maximum": 2500000000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYWAMA5"
     },
@@ -1941,9 +2188,11 @@
       "maximum": 1000000000,
       "start": "2026-03-31T15:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYWBMA5"
     },
@@ -1957,8 +2206,10 @@
       "start": "2025-03-31T23:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOsKMAX"
     },
@@ -1971,9 +2222,11 @@
       "maximum": 200000000,
       "start": "2026-04-01T00:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "設備投資・省力化",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoBMAX"
     },
@@ -1987,8 +2240,10 @@
       "start": "2020-03-31T23:00:00.000Z",
       "end": "2027-03-31T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000003QZLqEAO"
     },
@@ -2001,9 +2256,11 @@
       "maximum": 0,
       "start": "2026-10-08T00:00:00.000Z",
       "end": "2027-05-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003l6UrUAI"
     },
@@ -2016,9 +2273,11 @@
       "maximum": 0,
       "start": "2026-09-16T00:00:00.000Z",
       "end": "2027-05-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003MWE2UAO"
     },
@@ -2032,8 +2291,10 @@
       "start": "2022-09-15T09:00:00.000Z",
       "end": "2027-12-31T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC"
     },
@@ -2046,9 +2307,11 @@
       "maximum": 0,
       "start": "2026-10-29T15:00:00.000Z",
       "end": "2028-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003vH2PUAU"
     },
@@ -2061,9 +2324,11 @@
       "maximum": 10000000,
       "start": "2025-03-31T15:00:00.000Z",
       "end": "2029-03-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCsMAP"
     },
@@ -2076,9 +2341,11 @@
       "maximum": 15000000,
       "start": "2024-05-13T00:00:00.000Z",
       "end": "2029-12-31T14:59:00.000Z",
-      "status": "対象地域外の可能性",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "対象地域の記載を確認してください"
+        "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRafMAH"
     },
@@ -2092,8 +2359,10 @@
       "start": "2025-03-31T15:00:00.000Z",
       "end": "2030-03-31T14:45:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXK4MAP"
     },
@@ -2107,8 +2376,10 @@
       "start": "2023-09-22T09:00:00.000Z",
       "end": "2031-01-21T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000GMgXBEA1"
     },
@@ -2122,8 +2393,10 @@
       "start": "2024-02-13T09:00:00.000Z",
       "end": "2031-06-12T14:59:00.000Z",
       "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
       "reasons": [
-        "従業員条件: 従業員数の制約なし"
+        "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbU66EAF"
     }
