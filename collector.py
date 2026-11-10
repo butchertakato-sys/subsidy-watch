@@ -60,7 +60,7 @@ def classify(record):
         return '対象外候補', ['対象地域に長野県・全国が見当たりません'], description, category
     if any(w in title for w in ('新規雇用', '雇用創出', '従業員の賃上げ', '賃金引上げ', '賃上げ')):
         return '条件に注意', ['雇用・賃上げ条件がある可能性があります'], description, category
-    if re.search(r'(?:[1-9][0-9]*|[一二三四五])\\s*(?:名|人)\\s*以上', employees) and not re.search(r'(?:以下|以内)', employees):
+    if re.search(r'(?:[1-9][0-9]*|[一二三四五])\s*(?:名|人)\s*以上', employees) and not re.search(r'(?:以下|以内)', employees):
         return '条件に注意', ['従業員数の下限がある可能性があります'], description, category
     if category != 'その他':
         reasons.append('用途が関心分野に近いとタイトルから推定')
