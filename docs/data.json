@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:03:50+09:00",
+  "updated_at": "2026-11-13T11:39:12+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
   "total": 140,
   "partial": false,
@@ -274,23 +274,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WJ200000CDdtCMAT",
-      "title": "令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)",
-      "institution": "",
-      "area": "東京都",
-      "employees": "従業員数の制約なし",
-      "maximum": 3000000,
-      "start": "2026-10-13T00:00:00.000Z",
-      "end": "2026-11-12T07:00:00.000Z",
-      "status": "対象外候補",
-      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
-      "category": "販路開拓",
-      "reasons": [
-        "対象地域に長野県・全国が見当たりません"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT"
     },
     {
       "id": "a0WfQ000003qYNFUA2",
@@ -1889,6 +1872,23 @@
         "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvRMAX"
+    },
+    {
+      "id": "a0WfQ000004CHdtUAG",
+      "title": "四日市市中小企業脱炭素経営支援事業費補助金",
+      "institution": "",
+      "area": "三重県",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-04-01T00:00:00.000Z",
+      "end": "2027-03-31T08:15:00.000Z",
+      "status": "対象外候補",
+      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "省エネ・改修",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004CHdtUAG"
     },
     {
       "id": "a0WJ200000CDbz0MAD",
