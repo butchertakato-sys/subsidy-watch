@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T11:28:04+09:00",
+  "updated_at": "2026-11-15T10:57:36+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 138,
+  "total": 137,
   "partial": false,
   "errors": [],
   "items": [
@@ -256,23 +256,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WJ200000CDe6WMAT",
-      "title": "【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "institution": "",
-      "area": "佐賀県",
-      "employees": "従業員数の制約なし",
-      "maximum": 6000000,
-      "start": "2026-08-31T15:00:00.000Z",
-      "end": "2026-11-14T14:59:00.000Z",
-      "status": "対象外候補",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "対象地域に長野県・全国が見当たりません"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT"
     },
     {
       "id": "a0WJ200000CDe6CMAT",
