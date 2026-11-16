@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15T10:57:36+09:00",
+  "updated_at": "2026-11-16T11:12:31+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 137,
+  "total": 136,
   "partial": false,
   "errors": [],
   "items": [
@@ -256,40 +256,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WJ200000CDe6CMAT",
-      "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-      "institution": "",
-      "area": "京都府",
-      "employees": "従業員数の制約なし",
-      "maximum": 6000000,
-      "start": "2026-08-31T15:00:00.000Z",
-      "end": "2026-11-15T14:59:00.000Z",
-      "status": "対象外候補",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "対象地域に長野県・全国が見当たりません"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT"
-    },
-    {
-      "id": "a0WJ200000CDeUgMAL",
-      "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
-      "institution": "",
-      "area": "東京都",
-      "employees": "従業員数の制約なし",
-      "maximum": 50000,
-      "start": "2026-09-14T15:00:00.000Z",
-      "end": "2026-11-15T14:59:00.000Z",
-      "status": "対象外候補",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "対象地域に長野県・全国が見当たりません"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL"
     },
     {
       "id": "a0WJ200000CDXkTMAX",
@@ -766,6 +732,23 @@
         "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE"
+    },
+    {
+      "id": "a0WfQ000003rcVFUAY",
+      "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（賃上げ重点コース）【令和8年度第3回】",
+      "institution": "",
+      "area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+      "employees": "従業員数の制約なし",
+      "maximum": 6000000,
+      "start": "2026-11-16T00:00:00.000Z",
+      "end": "2026-12-14T07:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rcVFUAY"
     },
     {
       "id": "a0WJ200000CDXmVMAX",
