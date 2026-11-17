@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T11:12:31+09:00",
+  "updated_at": "2026-11-17T13:32:00+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 136,
+  "total": 135,
   "partial": false,
   "errors": [],
   "items": [
@@ -258,23 +258,6 @@
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
     },
     {
-      "id": "a0WJ200000CDXkTMAX",
-      "title": "令和８年度展示会出展助成事業",
-      "institution": "",
-      "area": "東京都",
-      "employees": "従業員数の制約なし",
-      "maximum": 1500000,
-      "start": "2026-10-31T15:00:00.000Z",
-      "end": "2026-11-16T07:00:00.000Z",
-      "status": "対象外候補",
-      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
-      "category": "販路開拓",
-      "reasons": [
-        "対象地域に長野県・全国が見当たりません"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX"
-    },
-    {
       "id": "a0WfQ000003ENsfUAG",
       "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
       "institution": "",
@@ -324,6 +307,23 @@
         "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE"
+    },
+    {
+      "id": "a0WJ200000CDYDCMA5",
+      "title": "【農林水産省】中山間地域所得確保推進事業",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 5000000,
+      "start": "2025-12-16T00:00:00.000Z",
+      "end": "2026-11-25T08:15:00.000Z",
+      "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "用途・対象業種が不明なため要確認"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5"
     },
     {
       "id": "a0WfQ000003myubUAA",
@@ -664,23 +664,6 @@
         "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP"
-    },
-    {
-      "id": "a0WJ200000CDYDCMA5",
-      "title": "【農林水産省】中山間地域所得確保推進事業",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 5000000,
-      "start": "2025-12-16T00:00:00.000Z",
-      "end": "2026-12-01T08:15:00.000Z",
-      "status": "要確認",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "用途・対象業種が不明なため要確認"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5"
     },
     {
       "id": "a0WfQ000003zgNCUAY",
