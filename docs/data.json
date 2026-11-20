@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T12:33:10+09:00",
+  "updated_at": "2026-11-20T12:21:36+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
   "total": 136,
   "partial": false,
@@ -2213,23 +2213,6 @@
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003MWE2UAO"
     },
     {
-      "id": "a0W2x000007Cos5EAC",
-      "title": "［第六回以降］事業再構築補助金（共同申請者）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 150000000,
-      "start": "2022-09-15T09:00:00.000Z",
-      "end": "2027-12-31T14:59:00.000Z",
-      "status": "要確認",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "用途・対象業種が不明なため要確認"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC"
-    },
-    {
       "id": "a0WfQ000003vH2PUAU",
       "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業【変更承認申請/変更届/中止申請/実績報告】",
       "institution": "",
@@ -2330,6 +2313,23 @@
         "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbU66EAF"
+    },
+    {
+      "id": "a0W2x000007Cos5EAC",
+      "title": "［第六回以降］事業再構築補助金（共同申請者）",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 150000000,
+      "start": "2022-09-15T09:00:00.000Z",
+      "end": "2032-12-31T14:59:00.000Z",
+      "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "用途・対象業種が不明なため要確認"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007Cos5EAC"
     }
   ]
 }
