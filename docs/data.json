@@ -1,46 +1,10 @@
 {
-  "updated_at": "2026-11-20T12:21:36+09:00",
+  "updated_at": "2026-11-21T12:14:29+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 136,
+  "total": 132,
   "partial": false,
   "errors": [],
   "items": [
-    {
-      "id": "a0WJ200000CDd3OMAT",
-      "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-07-13T01:00:00.000Z",
-      "end": "2026-11-20T08:00:00.000Z",
-      "status": "関連候補",
-      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
-      "category": "省エネ・改修",
-      "reasons": [
-        "用途が関心分野に近いとタイトルから推定",
-        "申請資格・対象経費は未確認"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT"
-    },
-    {
-      "id": "a0WJ200000CDd3YMAT",
-      "title": "令和８年度地域脱炭素実現に向けた具体的施策実装支援事業",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-07-13T01:00:00.000Z",
-      "end": "2026-11-20T08:00:00.000Z",
-      "status": "関連候補",
-      "description": "省エネ・改修に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
-      "category": "省エネ・改修",
-      "reasons": [
-        "用途が関心分野に近いとタイトルから推定",
-        "申請資格・対象経費は未確認"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT"
-    },
     {
       "id": "a0WJ200000CDXyuMAH",
       "title": "令和8年度　資源循環分野の脱炭素化促進事業",
@@ -256,40 +220,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WfQ000003ENsfUAG",
-      "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-09-25T00:00:00.000Z",
-      "end": "2026-11-20T14:59:00.000Z",
-      "status": "対象外候補",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
-    },
-    {
-      "id": "a0WJ200000CDYbNMAX",
-      "title": "エイジフレンドリー補助金",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 1000000,
-      "start": "2026-05-20T00:00:00.000Z",
-      "end": "2026-11-20T15:00:00.000Z",
-      "status": "要確認",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "用途・対象業種が不明なため要確認"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
     },
     {
       "id": "a0WfQ000003rLvpUAE",
