@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21T12:14:29+09:00",
+  "updated_at": "2026-11-22T11:16:35+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 132,
+  "total": 135,
   "partial": false,
   "errors": [],
   "items": [
@@ -1327,6 +1327,23 @@
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW5MAP"
     },
     {
+      "id": "a0WJ200000CDYUUMA5",
+      "title": "【さいたま市】令和８年度さいたま市重点対策加速化事業補助金",
+      "institution": "",
+      "area": "埼玉県",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2025-12-31T15:00:00.000Z",
+      "end": "2027-02-01T08:15:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUUMA5"
+    },
+    {
       "id": "a0WJ200000CDYvPMAX",
       "title": "【大阪府和泉市】再エネ・省エネ機器設置促進事業補助金（事業者用）",
       "institution": "",
@@ -1463,6 +1480,23 @@
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDL8JMAX"
     },
     {
+      "id": "a0WJ200000CDYUVMA5",
+      "title": "【さいたま市】令和８年度さいたま市創エネ・蓄エネ設備導入補助金",
+      "institution": "",
+      "area": "埼玉県",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2025-12-31T15:00:00.000Z",
+      "end": "2027-03-01T08:15:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUVMA5"
+    },
+    {
       "id": "a0WJ200000CDY6GMAX",
       "title": "川越市中小企業者等物価高騰対策経営改善支援金",
       "institution": "",
@@ -1495,6 +1529,23 @@
         "伊那市以外の市町村向け制度の可能性があります"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1kMAH"
+    },
+    {
+      "id": "a0WJ200000CDYUTMA5",
+      "title": "【さいたま市】令和８年度さいたま市電気自動車等普及促進対策補助金",
+      "institution": "",
+      "area": "埼玉県",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2025-12-31T15:00:00.000Z",
+      "end": "2027-03-19T08:15:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUTMA5"
     },
     {
       "id": "a0WJ200000CDXk8MAH",
