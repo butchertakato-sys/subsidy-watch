@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T11:49:52+09:00",
+  "updated_at": "2026-11-24T15:05:52+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 135,
+  "total": 136,
   "partial": false,
   "errors": [],
   "items": [
@@ -220,23 +220,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WfQ000003rLvpUAE",
-      "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",
-      "institution": "",
-      "area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-      "employees": "従業員数の制約なし",
-      "maximum": 200000000,
-      "start": "2026-10-23T00:00:00.000Z",
-      "end": "2026-11-24T04:00:00.000Z",
-      "status": "対象外候補",
-      "description": "設備投資・省力化に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
-      "category": "設備投資・省力化",
-      "reasons": [
-        "対象地域に長野県・全国が見当たりません"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE"
     },
     {
       "id": "a0WJ200000CDYDCMA5",
@@ -900,6 +883,40 @@
         "対象地域に長野県・全国が見当たりません"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddZMAT"
+    },
+    {
+      "id": "a0WfQ0000041nyrUAA",
+      "title": "令和8年度第3回 事業承継を契機とした成長支援事業(一般コース)",
+      "institution": "",
+      "area": "東京都",
+      "employees": "従業員数の制約なし",
+      "maximum": 8000000,
+      "start": "2026-11-24T00:00:00.000Z",
+      "end": "2026-12-25T07:00:00.000Z",
+      "status": "対象外候補",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000041nyrUAA"
+    },
+    {
+      "id": "a0WfQ0000041oIDUAY",
+      "title": "令和8年度第3回 事業承継を契機とした成長支援事業(販路開拓コース)",
+      "institution": "",
+      "area": "東京都",
+      "employees": "従業員数の制約なし",
+      "maximum": 3000000,
+      "start": "2026-11-24T00:00:00.000Z",
+      "end": "2026-12-25T07:00:00.000Z",
+      "status": "対象外候補",
+      "description": "販路開拓に関係する制度の可能性があります。対象経費・申請条件は未確認です。",
+      "category": "販路開拓",
+      "reasons": [
+        "対象地域に長野県・全国が見当たりません"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000041oIDUAY"
     },
     {
       "id": "a0WJ200000CDddXMAT",
