@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T15:05:52+09:00",
+  "updated_at": "2026-11-25T13:54:09+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 136,
+  "total": 137,
   "partial": false,
   "errors": [],
   "items": [
@@ -594,6 +594,23 @@
         "用途・対象業種が不明なため要確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI"
+    },
+    {
+      "id": "a0WJ200000CDe82MAD",
+      "title": "「太陽光発電導入拡大等技術開発事業」の第3回公募",
+      "institution": "",
+      "area": "全国",
+      "employees": "従業員数の制約なし",
+      "maximum": 0,
+      "start": "2026-10-19T01:00:00.000Z",
+      "end": "2026-12-08T03:00:00.000Z",
+      "status": "要確認",
+      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
+      "category": "その他",
+      "reasons": [
+        "用途・対象業種が不明なため要確認"
+      ],
+      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD"
     },
     {
       "id": "a0WfQ000003zgNCUAY",
