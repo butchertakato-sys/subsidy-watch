@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T13:10:42+09:00",
+  "updated_at": "2026-11-27T13:17:40+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 136,
+  "total": 134,
   "partial": false,
   "errors": [],
   "items": [
@@ -220,40 +220,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WfQ000003myubUAA",
-      "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-10-22T03:00:00.000Z",
-      "end": "2026-11-27T03:00:00.000Z",
-      "status": "対象外候補",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA"
-    },
-    {
-      "id": "a0WfQ000003mzyjUAA",
-      "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 0,
-      "start": "2026-10-22T03:00:00.000Z",
-      "end": "2026-11-27T03:00:00.000Z",
-      "status": "対象外候補",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "タイトルに食品加工業と異なる特定業種・用途の記載があります"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA"
     },
     {
       "id": "a0WJ200000CDY5GMAX",
