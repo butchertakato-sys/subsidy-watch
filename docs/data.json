@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T13:17:40+09:00",
+  "updated_at": "2026-11-28T12:55:35+09:00",
   "source": "Jグランツ（デジタル庁）公開API",
-  "total": 134,
+  "total": 133,
   "partial": false,
   "errors": [],
   "items": [
@@ -220,23 +220,6 @@
         "申請資格・対象経費は未確認"
       ],
       "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT"
-    },
-    {
-      "id": "a0WJ200000CDY5GMAX",
-      "title": "令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業",
-      "institution": "",
-      "area": "全国",
-      "employees": "従業員数の制約なし",
-      "maximum": 20000000,
-      "start": "2026-03-24T04:00:00.000Z",
-      "end": "2026-11-27T15:00:00.000Z",
-      "status": "要確認",
-      "description": "補助対象の内容はタイトルだけでは判断できません。公募要領の確認が必要です。",
-      "category": "その他",
-      "reasons": [
-        "用途・対象業種が不明なため要確認"
-      ],
-      "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX"
     },
     {
       "id": "a0WJ200000CDZzQMAX",
